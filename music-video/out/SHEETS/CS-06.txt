@@ -1,0 +1,9 @@
+### CS-06 — شیت کاراکتر — مادر (گل‌بانو)
+# mode: Qwen-Image-2.1 · Text to Image
+# size: 2752x1536
+
+--- PROMPT ---
+Character reference sheet of one woman on a flat neutral light-grey seamless background. Three-view turnaround: full-body front view, exact ninety-degree left profile, and back view, all at identical height, identical scale, identical neutral standing pose with the hands clasped low in front, a neutral tired expression. Beside them, two smaller inset panels: a tight portrait of her face, and a close study of her folded working hands. Even soft studio lighting, no hard shadows. She is the MOTHER (Golbanoo, 52): an Iranian village woman; a round soft face with deep nasolabial folds, weathered olive skin, tired hazel-brown eyes with red-rimmed lower lids and puffy underlids; grey-streaked dark hair almost entirely hidden; a white cotton headscarf with a small faded blue floral print knotted under the chin; a long dark-green velvet Lori dress over black trousers and a black cardigan; strong working hands, short unpolished nails, one thin worn gold band; a slight forward stoop and a slow, careful walk. Photorealistic, 85mm lens, sharp focus, documentary honesty, no beauty retouching, no text, no labels.
+
+--- NEGATIVE ---
+text, letters, words, watermark, logo, signature, caption, subtitles, ui, extra fingers, six fingers, deformed hands, fused fingers, extra limbs, distorted face, asymmetrical eyes, plastic skin, waxy skin, beauty retouching, oversharpened, hdr glow, oversaturated, neon, cartoon, anime, 3d render, cgi, video game, illustration, painting, sketch, blurry, low resolution, jpeg artifacts, duplicate people, cloned faces, upright headstones, western cemetery, crosses, church, pews, coffins, blood, injury, corpse, western school uniforms, blazers, ties, jeans with logos, modern sneakers, smartphones, lens flare, tilted horizon, fisheye, vignette overload
