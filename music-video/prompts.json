@@ -9,61 +9,57 @@
     "fps": 24,
     "runtime_target": "01:02 (با حذف S04 → 00:58)"
   },
-
   "blocks": {
-    "S": "the WOMAN: the singer and the protagonist, one and the same person — a southern Iranian woman from the Persian Gulf coast, in her late thirties, of average height and slight build. >>> REPLACE THIS SENTENCE WITH HER REAL FEATURES FROM THE PORTRAIT PHOTO <<< warm bronze-olive sun-touched skin; an oval face with strong cheekbones and a softly defined jaw; large dark almond eyes with thick natural lashes and slightly heavy lids; dark well-defined eyebrows; a straight nose; full lips usually held closed; long dark wavy hair almost entirely covered by her shawl with a few strands loose at the temple; small thin gold hoop earrings; henna-darkened fingertips; a steady, direct, unflinching gaze; a very upright, grounded, still posture with the shoulders squared",
-
-    "WA": "wardrobe: a long loose ankle-length white southern Iranian dress in light cotton, wide falling sleeves that catch the wind, tone-on-tone white embroidery at the neckline and cuffs, worn over white wide-legged trousers with embroidered cuffs at the ankle, and a long soft off-white shawl draped over the head and shoulders with the ends hanging loose down the back; simple flat sandals; small thin gold hoop earrings and nothing else; no logos, no print, no bright colour anywhere on her",
-
-    "K": "the BOY (her son, 9): a southern Iranian primary-school boy; a round sun-browned face, large dark eyes with long lashes, close-cropped black hair, slightly large front teeth with a narrow gap; the Iranian primary-school uniform: a pale blue-grey short-sleeve shirt over a white undershirt, navy trousers, white canvas shoes; a bright, open, unguarded smile",
-
-    "BAG": "the SCHOOLBAG: a dark maroon rectangular Iranian primary-school satchel, stiff vinyl with a single brass buckle and one flat front pocket, brand-new and unscuffed, with a small hand-sewn white cotton name tag stitched inside the flap — the only saturated warm colour allowed anywhere in the film",
-
+    "S": "the WOMAN: the singer and the protagonist, one and the same person — a young southern Iranian woman in her mid twenties. Her face must match the portrait reference exactly and is defined by four features that must never change: FIRST, pale green-grey eyes, large and almond-shaped, with a distinct darker limbal ring and long dark lashes — her eyes are green, never brown. SECOND, very thick, straight, dark, low-set eyebrows with only a slight arch, sitting close above the eyes. THIRD, full lips with a sharply defined cupid's bow, the lower lip fuller, natural rose colour. FOURTH, a narrow straight nose with a small defined rounded tip. Beyond those: a soft oval face tapering to a gently pointed chin, high rounded cheekbones with a natural warm flush, fair light-olive skin with fine visible texture and no blemishes, a long neck, and long thick dark brown-black wavy hair. Her expression is calm, level and unflinching; she holds very still, shoulders squared, and carries grief quietly rather than performing it",
+    "WA": "wardrobe: a long loose ankle-length ivory-cream kurta of soft slubbed cotton-silk, wide elbow-length kimono sleeves with a gold-embroidered cuff band, a small V neckline framed by a diamond-shaped maroon-and-gold embroidered panel, and scattered small gold paisley motifs across the body, the hem finished with a gold embroidered border and cut longer at the sides; matching ivory straight trousers with a densely gold-embroidered panel at each ankle; a long deep-maroon chiffon shawl draped over the left shoulder with both ends hanging loose and floating in the wind; layered gold jewellery — a delicate gold head-chain across the forehead with small hanging gold leaves and a round central medallion, a long two-tier gold coin-and-pendant necklace over the chest; henna patterns on the backs of both hands; cream platform wedge sandals; her hair worn loose, long and wavy, uncovered",
+    "K": "the BOY (her son, 7, a first-grader): a southern Iranian child on his first year of school; a small round sun-browned face, large dark eyes with long lashes, close-cropped black hair, two slightly large front teeth with a narrow gap, a scattering of tiny freckles across the nose; the Iranian primary-school uniform worn slightly too big for him: a pale blue-grey short-sleeve shirt over a white undershirt, navy trousers, white canvas shoes; a bright, open, unguarded smile",
+    "BAG": "the SCHOOLBAG: a first-grader's rectangular Iranian school satchel in exactly the same deep maroon as her chiffon shawl, stiff vinyl with a single brass buckle and one flat front pocket, brand-new and unscuffed, small enough for a seven-year-old, with a hand-sewn white cotton name tag stitched inside the flap — her shawl and this satchel are the only two warm saturated things in the entire film and they are the same red",
     "NOTE": "the NOTEBOOK: a thin Iranian forty-page school notebook with a pale mint-green cover, soft cheap paper, lined pages covered in careful right-to-left childish handwriting in blue ballpoint, the letters round, even and slightly too large, with a few erased corrections",
-
     "BELL": "the BELL: an old brass hand bell with a worn dark wooden handle, hanging from a fraying hemp rope on a nail beside a turquoise-painted steel door, green patina in the grooves, the clapper visible inside",
-
     "STONE": "the GRAVE: an Iranian Muslim grave, a flat unpolished pale stone slab laid horizontally flush with the ground, no upright headstone and no cross, a shallow carved border frame, a small dented copper water vessel at the head, a few cut white stems, salt-crusted bone-white earth around it",
-
     "SCHOOL": "the SCHOOL: a small school in a Persian Gulf coastal town, a courtyard of pale sand-coloured cement tiles bleached by the sun, low walls of coral stone rendered in flaking white and painted sun-faded turquoise to waist height, two tall date palms throwing hard ragged shadows across the yard, a single flagpole, a one-storey bone-white plastered building with steel-framed windows and a deep shaded arcade, and a wide turquoise-painted metal double gate",
-
     "HOME": "the HOME: a modest southern Iranian room, a woven palm-frond mat over a bare cement floor, whitewashed plaster walls, one deep shaded window opening with a thin cloth curtain lifting in the sea breeze, a low niche holding a Quran and one framed photograph turned face-down, a single bare hanging bulb, a large unglazed clay water jar in the corner",
-
     "CEM": "the CEMETERY: a graveyard on the salt flats at the edge of a Gulf coastal town, flat unpolished stone slabs laid directly onto pale bone-white salt-crusted earth in uneven rows, dry thorn scrub, one leaning half-dead date palm, a low broken wall, and the flat silver line of the sea far behind under a bleached hazy sky",
-
     "ALLEY": "the ALLEY: a narrow lane in a Gulf coastal town between houses of coral stone rendered in flaking white and pale ochre, turquoise-painted steel doors, one low wind-catcher tower above the rooftops, hard palm-frond shadows striping the sand-dusted ground",
-
     "NOW": "LOOK: cinematic 35mm photography, hazy bleached Persian Gulf daylight, high hard sun diffused through salt haze, a pale palette of bone white, sun-faded turquoise, sand ochre and date-palm green, desaturated by about thirty percent, bright sky against deep crushed shadows, fine film grain, gentle halation, natural unretouched skin tones, no lens flare, level horizon",
-
-    "NEG": "text, letters, words, arabic script, persian script, watermark, logo, signature, caption, subtitles, ui, extra fingers, six fingers, deformed hands, fused fingers, extra limbs, distorted face, asymmetrical eyes, plastic skin, waxy skin, beauty retouching, smoothed skin, oversharpened, hdr glow, oversaturated, neon, cartoon, anime, 3d render, cgi, video game, illustration, painting, sketch, blurry, low resolution, jpeg artifacts, duplicate people, cloned faces, upright headstones, western cemetery, crosses, church, coffins, blood, injury, corpse, western school uniforms, blazers, ties, jeans with logos, modern sneakers, smartphones, lens flare, tilted horizon, fisheye, heavy vignette, snow, forest, skyscrapers"
+    "NEG": "brown eyes, hazel eyes, dark eyes, thin eyebrows, plucked eyebrows, arched eyebrows, changed face, different woman, aged face, wrinkles, text, letters, words, arabic script, persian script, watermark, logo, signature, caption, subtitles, ui, extra fingers, six fingers, deformed hands, fused fingers, extra limbs, distorted face, asymmetrical eyes, plastic skin, waxy skin, beauty retouching, smoothed skin, oversharpened, hdr glow, oversaturated, neon, cartoon, anime, 3d render, cgi, video game, illustration, painting, sketch, blurry, low resolution, jpeg artifacts, duplicate people, cloned faces, upright headstones, western cemetery, crosses, church, coffins, blood, injury, corpse, western school uniforms, blazers, ties, jeans with logos, modern sneakers, smartphones, lens flare, tilted horizon, fisheye, heavy vignette, snow, forest, skyscrapers",
+    "WH": "wardrobe, shawl-up variant: exactly the same ivory-cream embroidered kurta, ivory trousers with gold ankle panels, gold head-chain, gold coin necklace and henna hands, but the deep-maroon chiffon shawl is now pulled up over her head like a veil, framing her face, the gold head-chain still visible at her forehead beneath it, both ends of the shawl hanging down her front and lifting in the wind; a few strands of her dark hair escaping at the temples"
   },
-
   "sheets": [
     {
-      "id": "CS-01",
-      "title_fa": "★ ترن‌اراند سه‌نما — خواننده با لباس سفید",
-      "mode": "Qwen-Image-2.1 · Image Edit — ورودی ۱: پرتره‌ی او · ورودی ۲: عکس لباس سفید · ورودی ۳: عکس لباس صورتی (برای فرم بدن)",
+      "id": "CS-00",
+      "title_fa": "★★ پیوندِ چهره روی شیت لباس — اولین کاری که باید بکنی",
+      "mode": "Qwen-Image-2.1 · Image Edit — ورودی ۱: REF-02 (شیت ۶ پنلی لباس) · ورودی ۲ و ۳: REF-01 (پرتره‌ی او)",
       "size": "2752x1536",
-      "note_fa": "ضروری‌ترین شیت. Qwen-2.1 رسماً برای همین ساخته شده: ترکیب یک نفر با لباسِ جدا از رفرنسِ دیگر (virtual try-on). اگر بودجه‌ات فقط به یک شیت می‌رسد، همین یکی را بساز.",
-      "prompt": "Character reference sheet. The woman is the exact person in reference image one — preserve her facial identity with absolute fidelity: bone structure, eye shape and spacing, nose, lip shape, brow shape, hairline, skin tone and texture. Dress her in the white garment shown in reference image two, reproducing its exact cut, fabric weight, drape and embroidery. Three-view turnaround on a flat neutral light-grey seamless background: full-body front view on the left, exact ninety-degree left profile in the centre, full back view on the right. All three figures at identical height, identical scale, identical neutral standing pose with the arms relaxed at the sides, feet together, a calm closed-mouth expression, eyes level to camera in the front view. Head to feet fully visible in every view with even headroom. Even soft studio lighting from a large front-left octabox with broad fill, no hard shadows, no rim light, no colour cast. She is {S} wearing {WA}. Photorealistic, 85mm lens, sharp focus edge to edge, flat uniform background, no props, no text.",
+      "note_fa": "شیتی که فرستادی لباس درست را دارد ولی چهره‌ی او نیست. این پرامپت فقط چهره را عوض می‌کند و لباس، ژست، ترکیب‌بندی و نور را دست نمی‌زند. پرتره را دو بار به‌عنوان ورودی بده (۲ و ۳) — تکرار رفرنس، قفلِ چهره را محسوس‌تر می‌کند. اگر رنگ چشم سبز درنیامد، CFG را به ۴.۵ ببر و دوباره بزن.",
+      "prompt": "Take image one exactly as it is and change only the woman's face and hair colour. Replace her face in every single panel with the exact face of the woman in image two, matching her identity precisely: her pale green-grey almond eyes with the darker limbal ring, her very thick straight dark low-set eyebrows, her full lips with the sharp cupid's bow, her narrow straight nose with a small rounded tip, her soft oval face and gently pointed chin, her high rounded cheekbones and fair light-olive skin. Her eyes must be clearly green, not brown. Keep absolutely everything else in image one untouched and pixel-identical: the same six panels in the same layout, the same numbering, the same white background, the same poses, the same camera angles, the same lighting and shadows, the same ivory-cream embroidered kurta, the same deep-maroon chiffon shawl and the way it falls, the same gold head-chain, the same gold coin necklace, the same henna on the hands, the same trousers, the same shoes, the same hair length and wave pattern. Do not restyle, do not recompose, do not change the garment in any way. Photorealistic, high detail in the eyes and skin texture, visible pores, no beauty retouching, no smoothing.",
+      "negative": "{NEG}"
+    },
+    {
+      "id": "CS-01",
+      "title_fa": "★★ ترن‌اراند سه‌نما — پاک، روی پس‌زمینه‌ی خنثی",
+      "mode": "Qwen-Image-2.1 · Image Edit — ورودی ۱: CS-00 · ورودی ۲: REF-01 (پرتره)",
+      "size": "2752x1536",
+      "note_fa": "مادرِ کل پروژه. شیت CS-00 پس‌زمینه‌ی سفیدِ محصولی دارد؛ این نسخه روی خاکستریِ خنثی و با ژست کاملاً یکسان است که برای رفرنس‌دادن به مدل‌های ویدیو بهتر جواب می‌دهد.",
+      "prompt": "Character reference sheet of the exact same woman shown in the reference images, preserving her facial identity with absolute fidelity, especially her pale green-grey eyes, her very thick straight dark eyebrows and her full lips. Three-view turnaround on a flat neutral light-grey seamless background: full-body front view on the left, exact ninety-degree left profile in the centre, full back view on the right. All three figures at identical height, identical scale, identical neutral standing pose with the arms relaxed at the sides and the feet together, a calm closed-mouth expression, eyes level to camera in the front view. Head to feet fully visible in every view with even headroom. Even soft studio lighting from a large front-left octabox with broad fill, no hard shadows, no rim light, no colour cast. She is {S} wearing {WA}. Reproduce the garment's exact cut, embroidery placement, drape and colour from the reference. Photorealistic, 85mm lens, sharp focus edge to edge, flat uniform background, no props, no text, no panel numbers.",
       "negative": "{NEG}"
     },
     {
       "id": "CS-02",
       "title_fa": "★ شیت ترکیبی حالت + نور (کلید پیوستگی)",
-      "mode": "Qwen-Image-2.1 · Image Edit — ورودی: CS-01 + پرتره‌ی واقعی",
+      "mode": "Qwen-Image-2.1 · Image Edit — ورودی ۱: CS-01 · ورودی ۲: REF-01",
       "size": "2752x1536",
-      "note_fa": "سه شیت را در یکی ادغام کرده‌ام تا هزینه پایین بماند: حالت چهره + نورهای واقعیِ هر لوکیشن. برای هر پلان، پنلی را که نورش می‌خواند به مدل ویدیو بده.",
-      "prompt": "A six-panel reference sheet of the exact same woman from the reference image, six head-and-shoulders portraits in two rows of three, identical scale, identical three-quarter angle, identical face, identical white shawl and dress. Only expression and lighting change. Top row, expressions under the same flat soft light: a neutral resting face with lowered eyes; singing softly with the mouth half open; the mouth closed with the jaw set and the chin lifted. Bottom row, the same neutral expression under three different lights: hazy bleached high sun in an open courtyard with deep shadow under the brow; hard raking low sun from the side on a salt flat with wind lifting her shawl; soft shaded window light from a deep dark interior with a bright doorway behind her. Restrained, interior, non-theatrical emotion throughout. She is {S} wearing {WA}. Photorealistic, 85mm lens, no text, no labels, no borders.",
+      "note_fa": "سه شیت در یکی، برای کم‌کردن هزینه. برای هر پلان، پنلی را که نورش با آن صحنه می‌خواند به مدل ویدیو بده.",
+      "prompt": "A six-panel reference sheet of the exact same woman from the reference images, six head-and-shoulders portraits in two rows of three, identical scale, identical three-quarter angle, identical face with pale green-grey eyes and very thick straight dark eyebrows, identical gold head-chain and ivory embroidered neckline. Only expression and lighting change. Top row, three expressions under the same flat soft light: a neutral resting face with lowered eyes; singing softly with the mouth half open and the jaw moving; the mouth closed with the jaw set and the chin lifted. Bottom row, the same neutral expression under three different lights: hazy bleached high sun in an open courtyard with deep shadow under the brow; hard raking low sun from the side on a salt flat with wind lifting the maroon shawl; soft shaded light from a dark interior with a blown-out bright doorway behind her. Restrained, interior, non-theatrical emotion throughout. She is {S} wearing {WA}. Photorealistic, 85mm lens, visible skin texture, no retouching, no text, no labels, no borders.",
       "negative": "{NEG}"
     },
     {
       "id": "CS-03",
-      "title_fa": "شیت لباس — قفلِ پارچه و حرکت",
-      "mode": "Qwen-Image-2.1 · Image Edit — ورودی: CS-01 + عکس لباس سفید",
+      "title_fa": "★ شیت شالِ روی سر + حرکت پارچه",
+      "mode": "Qwen-Image-2.1 · Image Edit — ورودی ۱: CS-01 · ورودی ۲: REF-01",
       "size": "2752x1536",
-      "note_fa": "بادِ جنوب بخشی از زبانِ بصریِ کلیپ است. این شیت به مدل ویدیو یاد می‌دهد پارچه چطور باید حرکت کند.",
-      "prompt": "A four-panel wardrobe and fabric study of the exact same woman from the reference image, four full-body views on a flat neutral light-grey background at identical height and scale: standing still with the fabric hanging straight; the same pose with a strong side wind lifting the shawl ends and pressing the dress against one leg; a three-quarter back view with the shawl blown forward over one shoulder; a close detail of the sleeve cuff and neckline embroidery filling the panel. Reproduce the garment's exact cut, weight, weave and embroidery from the reference. Even soft studio lighting in every panel. She is {S} wearing {WA}. Photorealistic, 85mm and 100mm lens looks, accurate light cotton behaviour, no text, no labels.",
+      "note_fa": "حالت دوم لباس، مخصوص پلان‌های قبرستان (S07 و S09). بادِ جنوب امضای بصری کلیپ است — این شیت به مدل ویدیو یاد می‌دهد پارچه چطور باید حرکت کند.",
+      "prompt": "A four-panel wardrobe study of the exact same woman from the reference images on a flat neutral light-grey background, four views at identical height and scale, her face identical in all four with pale green-grey eyes and very thick straight dark eyebrows. Panel one: a full-body front view wearing {WH}, standing still, the shawl hanging straight. Panel two: the same, with a strong side wind lifting the shawl away from her face and pressing the kurta against one leg. Panel three: a three-quarter view from behind showing how the maroon shawl sits over the back of her head and shoulders. Panel four: a tight close-up of her face framed by the maroon shawl with the gold head-chain visible at her forehead beneath it. Even soft studio lighting in every panel. She is {S}. Photorealistic, 85mm and 100mm lens looks, accurate lightweight chiffon behaviour, no text, no labels.",
       "negative": "{NEG}"
     },
     {
@@ -103,7 +99,6 @@
       "negative": "{NEG}"
     }
   ],
-
   "shots": [
     {
       "id": "S01",
@@ -116,7 +111,10 @@
       "engine_alt": "MiniMax H3 768P",
       "why_fa": "ارزان‌ترین پلان ممکن: بدون چهره، بدون آدم، فقط نور. LTX Fast در 720p پایین‌ترین قیمت هر ثانیه را دارد.",
       "ratio": "16:9",
-      "refs": ["PS-01", "LS-01 (پنل خانه)"],
+      "refs": [
+        "PS-01",
+        "LS-01 (پنل خانه)"
+      ],
       "image": "Extreme close-up in near-darkness. {BAG} stands upright on a woven palm-frond mat beside a folded school shirt, inside {HOME}. A single narrow blade of early light enters from the edge of the cloth curtain and lies across the brass buckle. Fine dust hangs in the beam. Everything outside the beam falls to deep warm black. Macro 100mm lens, extremely shallow depth of field, focus on the buckle. {NOW}.",
       "video": "Locked-off macro shot, the camera does not move for the entire clip. Over six seconds the narrow blade of light creeps slowly across the satchel from the buckle towards the stitched edge, widening slightly and warming from pale grey to soft amber. Dust motes drift lazily through the beam, a few catching the light and flaring for an instant. Nothing else in the frame moves, no people, no hands. Preserve the exact shape, colour and stitching of the satchel. Silent plate, no audio needed.",
       "end_frame": "The same macro frame, the blade of light now wider and warmer and fully across the satchel, the rest of the room still dark.",
@@ -134,7 +132,11 @@
       "engine_alt": "Seedance 2.0 (i2v + @Audio)",
       "why_fa": "اولین بار که چهره و لباسش را می‌بینیم و اولین لب‌خوانی. H3 تا ۹ رفرنس می‌گیرد و قفل هویتش از همه بهتر است.",
       "ratio": "16:9",
-      "refs": ["CS-01", "CS-02 (پنل نور سوم)", "LS-01 (پنل خانه)"],
+      "refs": [
+        "CS-01",
+        "CS-02 (پنل نور سوم)",
+        "LS-01 (پنل خانه)"
+      ],
       "image": "Medium shot from inside the dark room looking out. {S} wearing {WA} stands in the bright doorway of {HOME}, holding {BAG} flat against her chest with both arms. The doorway blows out to hot white behind her, so she reads as a near-silhouette with only enough bounce off the white walls to hold her eyes and the embroidery of her dress. Her shawl edge lifts in the sea breeze. She looks down at the satchel, not at camera. 35mm lens, shallow depth of field, the dark room framing her. {NOW}.",
       "video": "An almost imperceptible push in over the full eight seconds, no more than eight percent. She stands in the doorway and does not walk in. She sings the opening line quietly, the mouth articulating clearly and naturally, small breaths between phrases, then lifts her eyes from the satchel and looks out past the camera. Her arms stay wrapped around the satchel throughout. The shawl ends and the loose sleeves move continuously in the breeze. Keep her face, shawl, white dress and the satchel exactly as in the reference images. Soundscape: a sea breeze through a doorway, a cloth curtain, distant gulls, a far-off motorcycle. No music.",
       "audio_fa": "میوت در تدوین.",
@@ -151,7 +153,10 @@
       "engine_alt": "MiniMax H3 768P (ref2v)",
       "why_fa": "چند آدمِ متحرک + قفل هویت یک نفر + امکان دو شات در یک رندر. تنها جایی که Seedance واقعاً صرف می‌کند.",
       "ratio": "16:9",
-      "refs": ["CS-01 → @Image1", "LS-01 (پنل کوچه) → @Image2"],
+      "refs": [
+        "CS-01 → @Image1",
+        "LS-01 (پنل کوچه) → @Image2"
+      ],
       "image": "Wide shot down {ALLEY} in the late morning. Six or seven primary-school children in uniform, seen mostly from behind, walk away from camera towards a turquoise gate at the far end, satchels swinging. In the exact centre of the lane, facing camera and perfectly still, stands {S} wearing {WA}. The children flow past her on both sides without looking at her. Hard palm-frond shadows stripe the sand-dusted ground. 35mm lens, deep focus. {NOW}.",
       "video": "@Image1 is the woman: keep her face, shawl, white dress and build identical to it. @Image2 is the location. Shot 1, zero to four seconds: a static wide down the lane, the children walking away towards the gate, satchels swinging, one child skipping. The woman stands motionless in the centre facing camera, the only still thing in the frame, her shawl and sleeves moving in the wind. Shot 2, four to six seconds: cut to a low shot at child height as the last children pass close by her, her white hem and the palm shadows in frame. Camera locked off in both shots, no handheld, no push, no pan. Bleached hazy daylight, {NOW}. Audio: footsteps on grit, children's voices far off and unintelligible, wind. No music.",
       "audio_fa": "همهمه‌ی بچه‌ها در میکس فقط ۱۵٪ باز.",
@@ -168,7 +173,10 @@
       "engine_alt": "LTX-2.5 Fast (اگر پلتفرمت ۴ ثانیه می‌دهد)",
       "why_fa": "کوتاه‌ترین پلان کلیپ. H3 از ۴ ثانیه شروع می‌شود، پس ارزان‌ترین راه همین است.",
       "ratio": "16:9",
-      "refs": ["PS-01", "LS-01 (پنل حیاط)"],
+      "refs": [
+        "PS-01",
+        "LS-01 (پنل حیاط)"
+      ],
       "image": "Tight shot. {BELL} hangs from its hemp rope beside a turquoise-painted steel door in the corner of {SCHOOL}. An old man's weathered hand, sleeve of a pale grey work shirt, enters from the right edge of frame and reaches for the rope, the fingers not yet closed around it. Hard hazy daylight, a palm shadow cutting across the wall behind. 85mm lens, shallow focus on the bell, the hand slightly soft. {NOW}.",
       "video": "Static locked-off shot. Over four seconds the weathered hand moves the last few centimetres towards the hemp rope and the fingers begin to close around it, slowing as they touch. The clip ends exactly at the moment of contact, before any pull. The rope sways a millimetre. The bell does not ring and does not swing. Nothing else moves. Preserve the exact shape, patina and rope of the bell. Soundscape: an empty courtyard, wind, the creak of rope fibre. Absolutely no bell sound.",
       "audio_fa": "سکوتِ عمدی. زنگ اینجا نباید به صدا دربیاید.",
@@ -185,7 +193,12 @@
       "engine_alt": "Seedance 2.0",
       "why_fa": "اوج کلیپ و تنها پلانی که هم می‌خواند و هم بازی می‌کند. یکی از دو پلانی است که ارزش ۲K دارد.",
       "ratio": "16:9",
-      "refs": ["CS-01", "CS-02 (پنل نور اول)", "CS-03 (پنل باد)", "LS-01 (پنل حیاط)"],
+      "refs": [
+        "CS-01",
+        "CS-02 (پنل نور اول)",
+        "CS-03 (پنل باد)",
+        "LS-01 (پنل حیاط)"
+      ],
       "image": "High wide shot from the roof of the arcade looking down into the completely empty courtyard of {SCHOOL}. {S} wearing {WA} is small in the centre of the pale bleached tiles, alone, caught mid-stride moving towards the corner where the bell hangs, one arm raised high with the palm open in a stop gesture, {BAG} still clutched in the other hand. Her white dress is the brightest thing in the frame. Two hard palm shadows cut across the empty tiles. Absolutely no other people anywhere. 24mm lens, deep focus. {NOW}.",
       "video": "The camera holds high and static for the whole clip. Over seven seconds the woman takes four or five urgent steps towards the far corner, her raised arm staying up, the white dress and shawl streaming behind her, then she slows and stops dead in the middle of the empty courtyard and the raised arm falls slowly to her side. She stands there, very small in the frame, and does not move again. She is singing throughout, the mouth clearly articulating even at this distance. Keep her white dress, shawl and build exactly as in the reference images. The courtyard must stay completely empty, no other people at any point. Soundscape: running footsteps echoing off courtyard walls, one sharp breath, then wind and total emptiness. No music, no voices.",
       "audio_fa": "اکو قدم‌ها در حیاط خالی، بعد سکوت.",
@@ -202,7 +215,10 @@
       "engine_alt": "MiniMax H3 768P",
       "why_fa": "منظره‌ی ساکن بدون چهره. فقط باد حرکت می‌کند — ارزان‌ترین ممکن.",
       "ratio": "16:9",
-      "refs": ["LS-02", "PS-01"],
+      "refs": [
+        "LS-02",
+        "PS-01"
+      ],
       "image": "Low wide shot almost at ground level on the salt flats of {CEM}. {STONE} lies in the foreground, pale and new against the bone-white crusted earth. {BAG} stands upright on the salt immediately beside it, the only warm colour in the whole frame. Rows of older slabs recede behind, one leaning half-dead date palm, and the flat silver line of the sea far away under a bleached haze. No people. 35mm lens, deep focus, level horizon. {NOW}.",
       "video": "Locked-off low wide shot, the camera does not move at all for six seconds. Only the wind is alive: dry thorn scrub shivers, a thin veil of salt dust lifts off the crust and travels across the frame, the dead palm fronds rattle, and a gust lifts the satchel's flap and lets it fall closed again. No people, no animals enter the frame. The grave must stay a flat slab lying on the ground, never an upright headstone. Silent plate, no audio needed.",
       "audio_fa": "باد خالص — نقطه‌ی تنفس کلیپ.",
@@ -219,11 +235,16 @@
       "engine_alt": "Seedance 2.0",
       "why_fa": "تعامل فیزیکی با آب + قفل چهره و لباس. H3 هم فیزیک مایع و هم هویت را با هم نگه می‌دارد.",
       "ratio": "16:9",
-      "refs": ["CS-01", "CS-02 (پنل نور دوم)", "CS-03", "LS-02"],
-      "image": "Medium shot, camera low, almost at ground level. {S} wearing {WA} kneels beside {STONE} on the salt flat of {CEM}, seen in three-quarter profile. She tips a small green plastic watering can over the slab, a thin ribbon of water just beginning to fall, her other palm flat on the stone. Her white sleeve is already dark with water and the hem of her dress rests in the salt dust. Hard raking low sun from the side, wind lifting her shawl. 35mm lens, shallow focus on her, the rows of slabs soft behind. {NOW}.",
+      "refs": [
+        "CS-01",
+        "CS-02 (پنل نور دوم)",
+        "CS-03",
+        "LS-02"
+      ],
+      "image": "Medium shot, camera low, almost at ground level. {S} wearing {WH} kneels beside {STONE} on the salt flat of {CEM}, seen in three-quarter profile. She tips a small green plastic watering can over the slab, a thin ribbon of water just beginning to fall, her other palm flat on the stone. Her white sleeve is already dark with water and the hem of her dress rests in the salt dust. Hard raking low sun from the side, wind lifting her shawl. 35mm lens, shallow focus on her, the rows of slabs soft behind. {NOW}.",
       "video": "Static low shot, the camera does not move. Over seven seconds she pours the water slowly across the stone, the thin stream spreading into a bright sheet that runs into the carved border and darkens the slab, then she sets the can down and wipes the wet surface with her flat palm in two slow passes, front to back, the way you would wipe a child's face. She stays kneeling. At the end she stops with her hand flat on the stone and lowers her head. She does not sing in this shot and does not look at camera. Keep her face, shawl and white dress exactly as in the reference images. The grave must remain a flat slab on the ground. Soundscape: water poured onto stone, a wet palm dragging across it, salt-flat wind, one distant gull. No music, no voices.",
       "audio_fa": "صدای آب روی سنگ — نزدیک و خیس. بهترین لایه‌ی صوتی کلیپ.",
-      "note_fa": "او اینجا نمی‌خواند. قطعِ لب‌خوانی وسط کلیپ، ریتم بصری می‌سازد."
+      "note_fa": "او اینجا نمی‌خواند. قطعِ لب‌خوانی وسط کلیپ، ریتم بصری می‌سازد. ★ بیتِ لباس: بین S06 و S07 شال مارونی را روی سر می‌کشد — سرِ قبر سرش را می‌پوشاند. این تغییر خارج از قاب اتفاق می‌افتد و در S07 و S09 ثابت می‌ماند."
     },
     {
       "id": "S08",
@@ -236,7 +257,11 @@
       "engine_alt": "LTX-2.5 Fast (۶ ثانیه)",
       "why_fa": "فیزیکِ قطره و پخش‌شدنِ جوهر در کاغذ — H3 در شبیه‌سازی فیزیکی از بقیه جلوتر است.",
       "ratio": "16:9",
-      "refs": ["PS-01", "LS-01 (پنل خانه)", "CS-01 (فقط برای رنگ پوست دست)"],
+      "refs": [
+        "PS-01",
+        "LS-01 (پنل خانه)",
+        "CS-01 (فقط برای رنگ پوست دست)"
+      ],
       "image": "Overhead macro. {NOTE} lies open on a woven palm-frond mat inside {HOME}, both pages covered in rows of childish handwriting, deliberately soft and out of focus so no word is legible. One woman's index finger with a henna-darkened tip rests at the start of a line, about to trace it. Soft shaded light from a deep window opening on the left. 100mm macro lens, shallow depth of field, focus on the fingertip and the paper texture. {NOW}.",
       "video": "Locked-off overhead macro, no camera movement. Over five seconds the fingertip travels very slowly along one line of writing from right to left, barely touching the paper, and stops halfway. It hovers, trembling. Then a single tear drops onto the page beside the finger and the paper darkens in a slowly spreading circle, the blue ink at its edge blooming and feathering outward into the wet fibres. The finger does not move again. No face enters the frame. Keep the handwriting soft and unreadable throughout. Soundscape: a single unsteady breath, the faintest rustle of paper, a sea breeze outside. No music, no voices.",
       "audio_fa": "یک نفسِ بریده، خیلی کم.",
@@ -253,8 +278,12 @@
       "engine_alt": "Seedance 2.0 (i2v + @Audio برای لب‌سینک)",
       "why_fa": "نزدیک‌ترین پلان کلیپ به چهره‌اش و آخرین لب‌خوانی. دومین پلانی که ارزش ۲K دارد.",
       "ratio": "16:9",
-      "refs": ["CS-01", "CS-02 (پنل حالت دوم و نور دوم)", "LS-02"],
-      "image": "Very tight close-up, the face filling the frame from the brow to just below the chin, slightly off centre with negative space to the right. {S} wearing {WA} stands outdoors on the salt flat of {CEM}, wind moving a single loose strand of hair across her cheek and the edge of her white shawl. Her eyes are wet and glassy with the light catching the film of moisture, but no tear has fallen. She looks directly into the lens for the first time in the film. Hard hazy daylight, the bleached salt flat a soft white wash behind. 85mm lens, extremely shallow depth of field, the eyes tack sharp. {NOW}.",
+      "refs": [
+        "CS-01",
+        "CS-02 (پنل حالت دوم و نور دوم)",
+        "LS-02"
+      ],
+      "image": "Very tight close-up, the face filling the frame from the brow to just below the chin, slightly off centre with negative space to the right. {S} wearing {WH} stands outdoors on the salt flat of {CEM}, wind moving a single loose strand of hair across her cheek and the edge of her white shawl. Her eyes are wet and glassy with the light catching the film of moisture, but no tear has fallen. She looks directly into the lens for the first time in the film. Hard hazy daylight, the bleached salt flat a soft white wash behind. 85mm lens, extremely shallow depth of field, the eyes tack sharp. {NOW}.",
       "video": "Locked-off extreme close-up, the camera holds absolutely still for seven seconds. She sings the line straight into the lens, the mouth articulating clearly and naturally, the jaw and throat moving, one small breath mid-phrase. A single tear leaves one eye and runs down the cheek, unwiped, while she keeps singing without breaking. She blinks slowly once. The wind keeps moving the loose strand of hair and the shawl edge. No head turn, no hand, no other movement. Keep her face and shawl exactly as in the reference images. Soundscape: only salt-flat wind and breath. No music, no dialogue.",
       "audio_fa": "میوت.",
       "note_fa": "اگر مدل صورت را بیش‌ازحد صاف کرد: «visible pores, unretouched skin, fine lines» را در پرامپت تصویر تکرار کن و CFG را به ۴ ببر."
@@ -270,7 +299,11 @@
       "engine_alt": "MiniMax H3 با فریم اول + فریم آخر",
       "why_fa": "سه ضربه‌ی روایی در ۶ ثانیه. Seedance تنها موتوری است که سه شات را در یک رندر و با سینکِ ضرب می‌سازد — یعنی یک رندر به‌جای سه تا.",
       "ratio": "16:9",
-      "refs": ["LS-01 (پنل حیاط) → @Image1", "CS-04 → @Image2", "فایل صوتی ۶ ثانیه‌ی پایانی آهنگ → @Audio1"],
+      "refs": [
+        "LS-01 (پنل حیاط) → @Image1",
+        "CS-04 → @Image2",
+        "فایل صوتی ۶ ثانیه‌ی پایانی آهنگ → @Audio1"
+      ],
       "image": "Wide high shot looking down into the courtyard of {SCHOOL} through the open turquoise gate. A crowd of primary-school children in pale blue-grey uniforms pours in through the gate and spreads across the bleached tiles, satchels swinging. Hard hazy sun, long palm shadows cutting across the yard. 24mm lens, deep focus. {NOW}.",
       "video": "@Image1 is the courtyard, keep its architecture, tiles, palms and gate exactly. @Image2 is the boy and the uniform style. @Audio1 is the music, cut on its beats. Shot 1, zero to two seconds: a tight low shot of the brass bell swinging hard twice as the clapper strikes it, dust shaking off the rope. Shot 2, two to four seconds: a high wide as dozens of children flood in through the turquoise gate and fan out across the bleached courtyard, running, satchels swinging. Shot 3, four to six seconds: a medium shot from behind the last row of children as they settle into lines, and one single boy near the end of the row turns around and looks straight into the lens with a small open smile, raising one hand halfway, while no other child turns or reacts. Camera locked off in every shot, no handheld. Keep the boy's face exactly as in @Image2. Bleached hazy daylight, {NOW}. Audio: two clear brass bell strikes with a long ring-out, then a rush of children's voices and running feet, then a sudden hush.",
       "audio_fa": "صدای زنگ تنها آمبیانسی است که اجازه دارد تا −۱۲ dB بالا بیاید. بقیه زیر موسیقی.",
